@@ -1,1 +1,1 @@
-#### The solutions f every leetcode problems that i solved.
+#### The solutions of every leetcode problems that i solved.
