@@ -21,7 +21,5 @@ class palindrome {
         }
         else
             System.out.println("Not Palindrome");
-         
-
     }
 }
